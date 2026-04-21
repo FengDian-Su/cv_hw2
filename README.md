@@ -49,6 +49,7 @@ CUDA_VISIBLE_DEVICES=1 python code/inference.py --mode both --threshold 0.05
 |-------|--------------|----------|
 | Validation | 0.401 | 0.793 |
 | Public Leaderboard | 0.32 | - |
+![Leaderboard](visualizations/snapshot.png)
 
 ### References
 - Carion et al., "End-to-End Object Detection with Transformers", ECCV 2020
